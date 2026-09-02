@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/2/2026 5:56:31 AM +00:00",
-      "DateModify": "9/2/2026 5:56:31 AM +00:00",
+      "DateCreation": "9/2/2026 7:50:29 AM +00:00",
+      "DateModify": "9/2/2026 7:50:30 AM +00:00",
       "Title": "T1",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -36,8 +36,8 @@
         "BuildingBlocks": [
           {
             "Title": "Log message",
-            "XPosition": "5210",
-            "YPosition": "5120",
+            "XPosition": "5310",
+            "YPosition": "5070",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -55,10 +55,10 @@
                 "Key": "Header",
                 "Title": "Log message",
                 "SortOrder": "0",
-                "ValueId": "00333f06-9253-4975-9b49-b4b9ebe50061",
+                "ValueId": "b9fccbc3-156e-429f-b523-b4b9394f0081",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "8cc1dc2e-3786-45cd-8cf4-c5eaa8b0b901",
                 "ChildProperties": [],
@@ -72,7 +72,7 @@
                 "Key": "Text",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "851aaa22-07f9-46f8-969d-b4b9ebe50061",
+                "ValueId": "7f51bb58-f998-4359-ac94-b4b9394f0081",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -87,7 +87,7 @@
                     "Key": "TokenizedText",
                     "Title": "",
                     "SortOrder": "0",
-                    "ValueId": "dfda22b1-2526-4da1-8121-b4b9ebe50061",
+                    "ValueId": "6aa633d2-bb94-456c-bc44-b4b9394f0081",
                     "LType": "LText",
                     "IsExpanded": "False",
                     "IsBlockPropertyChecked": "True",
@@ -97,7 +97,7 @@
                     "Connections": [],
                     "Value": {
                       "Value": "12345678",
-                      "Id": "dfda22b1-2526-4da1-8121-b4b9ebe50061"
+                      "Id": "6aa633d2-bb94-456c-bc44-b4b9394f0081"
                     }
                   }
                 ],
@@ -126,7 +126,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "81604420-78a5-4dc1-b4f8-b4b9ebe50061",
+                "ValueId": "e705c420-0a26-41a9-8790-b4b9394f0081",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -136,7 +136,7 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "81604420-78a5-4dc1-b4f8-b4b9ebe50061"
+                  "Id": "e705c420-0a26-41a9-8790-b4b9394f0081"
                 }
               },
               {
@@ -147,10 +147,10 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "a395ac56-b197-4290-b383-b4b9ebe50061",
+                "ValueId": "5604fd3c-128d-482f-a1d2-b4b9394f0081",
                 "LType": "LSignal",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "f438aaae-1659-40e2-8557-bbce8d2d204b",
                 "ChildProperties": [],
@@ -158,7 +158,7 @@
                   {
                     "OutputFlowPropertyId": "f438aaae-1659-40e2-8557-bbce8d2d204b",
                     "InputFlowPropertyId": "8cc1dc2e-3786-45cd-8cf4-c5eaa8b0b901",
-                    "Id": "9b76310f-6747-4aff-95d0-b4b9ebe50061",
+                    "Id": "1a8d20c3-d008-46aa-94d5-b4b9394f0081",
                     "WireGuides": []
                   }
                 ]
